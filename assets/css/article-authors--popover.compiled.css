@@ -1,0 +1,16 @@
+.article-author--button:hover, .article-author--button:focus {
+  border-bottom-color: inherit;
+}
+
+.article-author--info {
+  display: none;
+  max-width: 400px;
+  position: absolute;
+  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.25);
+  z-index: 1020;
+  font-size: 0.75em;
+}
+
+.article-author--button:focus + .article-author--info {
+  display: block !important;
+}

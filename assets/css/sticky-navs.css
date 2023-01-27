@@ -1,0 +1,31 @@
+.sticky-top {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
+.publication-nav.sticky-top {
+  z-index: 1019;
+}
+
+.sticky-top.publication-nav.shadow-sm.publication-nav--asco {
+  top: 50px;
+}
+
+@media (min-width: 576px) {
+  .sticky-top.publication-nav.shadow-sm.publication-nav--asco {
+    top: 74px;
+  }
+}
+
+.sticky-top.publication-nav.shadow-sm.dom-journal {
+  top: 58px;
+}
+
+@media (min-width: 576px) {
+  .sticky-top.publication-nav.shadow-sm.dom-journal {
+    top: 66px;
+  }
+}
+

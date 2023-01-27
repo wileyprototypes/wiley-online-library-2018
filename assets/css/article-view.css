@@ -1,0 +1,18 @@
+.article-view .nav-pills .nav-link {
+  border-bottom: 4px solid transparent;
+}
+
+.article-view .nav-pills .nav-link small {
+  color: #767676;
+}
+
+.article-view .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  border-color: var(--primary);
+  background-color: var(--white);
+  color: var(--primary);
+}
+
+.article-view .nav-pills .nav-link.active small, .nav-pills .show > .nav-link small {
+  color: var(--primary);
+}
+

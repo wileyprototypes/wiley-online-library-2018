@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Wiley Online Library Designs</title>
+    <meta property="og:image" content="https://wol.bss.design/assets/img/wiley-card-image.jpg">
+    <meta name="twitter:description" content="A site for communicating designs relating to Wiley Online Library">
+    <meta property="og:type" content="website">
+    <meta name="description" content="A site for communicating designs relating to Wiley Online Library">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Wiley Online Library Designs">
+    <link rel="stylesheet" href="../../../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro">
+    <link rel="stylesheet" href="../../../assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../../../assets/css/animations.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/article-authors--popover.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/article-select.css">
+    <link rel="stylesheet" href="../../../assets/css/coloured-navs.css">
+    <link rel="stylesheet" href="../../../assets/css/general.css">
+    <link rel="stylesheet" href="../../../assets/css/mdi-utilities.css">
+    <link rel="stylesheet" href="../../../assets/css/menu-collapse-button.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/old-styles.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/read-more.css">
+    <link rel="stylesheet" href="../../../assets/css/skip-links.css">
+    <link rel="stylesheet" href="../../../assets/css/slider.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/dynamic-collapse-btn.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/sticky-navs.css">
+    <link rel="stylesheet" href="../../../assets/css/styles.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/wol-slideshow.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/article-view.css">
+    <link rel="stylesheet" href="../../../assets/css/author-lists.css">
+    <link rel="stylesheet" href="../../../assets/css/bootstrap-collapse-width.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/custom-scroll.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/non-sticky-references.compiled.css">
+    <link rel="stylesheet" href="../../../assets/css/search-menu.compiled.css">
+</head>
+
+<body>
+    <div class="menu menu--visible d-none">
+        <div class="bg-light d-flex app-menu app-menu--right" style="position: absolute;"><button class="btn btn-primary p-2 position-absolute" type="button" style="right: 0;top: 0;z-index: 1050;"><span class="mdi mdi-close"></span></button>
+            <div class="menu-content" style="height: 100vh;">
+                <div id="menu-panel--home" class="menu-panel show h-100" style="overflow-y: auto;">
+                    <div class="d-flex flex-shrink-0 justify-content-between align-items-center w-100" style="height: 44px;position:relative;">
+                        <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"><span class="text-truncate">Search</span></div>
+                    </div>
+                    <div class="bg-white px-3 py-4 border-bottom">
+                        <div class="position-relative">
+                            <div>
+                                <form>
+                                    <div class="form-group mb-0">
+                                        <div class="input-group"><input class="bg-white form-control form-control-lg border-primary" type="search" placeholder="Search articles, publications, etc" style="border-right: transparent;">
+                                            <div class="input-group-append"><button class="btn btn-primary" type="button"><span class="mdi mdi-magnify"></span></button></div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="bg-white shadow-lg py-2 position-absolute w-100 d-none"><a class="d-flex justify-content-start align-items-center my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-magnify mr-2"></span><span>Raman</span></a><a class="d-flex justify-content-start align-items-start my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-book mr-1 mdi-sm"></span><span class="d-flex flex-column flex-grow-1 justify-content-start align-items-start"><span class="small">Reference work</span><span>{{referenceWorkTitle}}</span></span></a><a class="d-flex justify-content-start align-items-start my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-text-box mr-1 mdi-sm"></span><span class="d-flex flex-column flex-grow-1 justify-content-start align-items-start"><span class="small">Journal</span><span class="text-left">{{journalTitle}}</span></span></a><a class="d-flex justify-content-start align-items-start my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-book-open-variant mr-1 mdi-sm"></span><span class="d-flex flex-column flex-grow-1 justify-content-start align-items-start"><span class="small">Book</span><span class="text-left">{{bookTitle}}</span></span></a><a class="d-flex justify-content-start align-items-start my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-account mr-1 mdi-sm"></span><span class="d-flex flex-column flex-grow-1 justify-content-start align-items-start"><span class="small">Author</span><span class="text-left">{{AuthorName}}</span></span></a></div>
+                        </div>
+                        <div><a class="d-flex justify-content-start align-items-center my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-history mr-2"></span><span>Light spectroscopy</span></a><a class="d-flex justify-content-start align-items-center my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-history mr-2"></span><span>Fair value accounting</span></a><a class="d-flex justify-content-start align-items-center my-2 btn btn-outline-light border-0 text-primary" href="#"><span class="mdi mdi-history mr-2"></span><span class="text-left">Computer processing requirements for complex machine learning algorithms</span></a>
+                            <div class="text-right"><button class="btn btn-outline-light btn-sm text-primary border-white d-inline-flex justify-content-center align-items-center" type="button"><span>Clear search history</span><span class="mdi mdi-close mdi-sm ml-1"></span></button></div>
+                        </div>
+                    </div>
+                    <div class="bg-white my-3 pl-2 border-top border-bottom"><a class="panel-trigger" href="javascript:;" panel-target="#menu-panel--advanced-search" panel-target-placement="right">
+                            <div class="text-center d-flex flex-row py-2 px-2"><span class="mdi mdi-tune mr-3"></span><span class="text-left flex-fill">Advanced search</span><span class="mdi mdi-chevron-right ml-2"></span></div>
+                        </a><a class="panel-trigger" href="javascript:;" panel-target="#menu-panel--citation-search" panel-target-placement="right">
+                            <div class="text-center d-flex flex-row py-2 px-2 border-top"><span class="mdi mdi-format-quote-close mr-3"></span><span class="text-left flex-fill">Citation search</span><span class="mdi mdi-chevron-right ml-2"></span></div>
+                        </a></div>
+                    <div class="bg-white px-3 py-4 my-3 border-bottom border-top">
+                        <h1 class="h5">Topics you might be interested in</h1>
+                        <div class="m-n1"><button class="btn btn-info btn-sm m-1" type="button">Electron &amp; Ion Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">Image Processing</button><button class="btn btn-info btn-sm m-1" type="button">Light Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">Scanning Probe Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">X-Ray Analysis</button><button class="btn btn-outline-info btn-sm m-1" type="button">...more topics</button></div>
+                    </div>
+                    <div class="bg-white px-3 py-4 my-3 border-bottom border-top">
+                        <h1 class="h5">Related to your interests</h1>
+                        <div class="d-flex flex-shrink-0 align-items-start flex-nowrap m-n1" style="overflow-x: hidden;"><button class="btn btn-sm d-inline-flex flex-column justify-content-center align-items-center m-1 p-2" type="button" style="width: 75px;"><span class="text-white bg-success border rounded-circle border-success mdi mdi-book-open-variant p-3"></span><span class="text-success">Books</span></button><button class="btn btn-sm d-inline-flex flex-column justify-content-center align-items-center m-1 p-2" type="button" style="width: 75px;"><span class="text-white bg-warning border rounded-circle border-warning mdi mdi-text-box p-3"></span><span class="text-warning">Journals</span></button><button class="btn btn-sm d-inline-flex flex-column justify-content-center align-items-center m-1 p-2" type="button" style="width: 75px;"><span class="text-white bg-info border rounded-circle border-info mdi mdi-book p-3"></span><span class="text-info">Reference Works</span></button><button class="btn btn-sm d-inline-flex flex-column justify-content-center align-items-center m-1 p-2" type="button" style="width: 75px;"><span class="text-white bg-danger border rounded-circle border-danger mdi mdi-account p-3"></span><span class="text-danger">Authors</span></button><button class="btn btn-sm d-inline-flex flex-column justify-content-center align-items-center m-1 p-2" type="button" style="width: 75px;"><span class="text-white bg-info border rounded-circle border-info mdi mdi-account p-3"></span><span class="text-info">Articles</span></button></div>
+                    </div>
+                    <div class="bg-white px-3 py-4 my-3 border-bottom border-top">
+                        <h1 class="h5">Trending articles {{related trending articles}}</h1>
+                        <div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">Effect of the Coronavirus Disease 2019 (COVID‐19) Pandemic on the United States Emergency Medical Services System: A Preliminary Report</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">New measurement technique for characterizing small extraterrestrial materials by X‐ray diffraction using the Gandolfi attachment</a></span><span class="d-flex justify-content-between small"><span>M.Diner, et al.</span><span>12 March 2020</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">Effect of the Coronavirus Disease 2019 (COVID‐19) Pandemic on the United States Emergency Medical Services System: A Preliminary Report</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="menu-panel--advanced-search" class="menu-panel">
+                    <div class="d-flex flex-shrink-0 justify-content-between align-items-center w-100" style="height: 44px;position:relative;"><button class="btn btn-link panel-trigger p-2" type="button" panel-target="#menu-panel--home" panel-target-placement="left"><span class="mdi mdi-chevron-left"></span></button>
+                        <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"><span class="text-truncate">Advanced search</span></div>
+                    </div>
+                    <div class="px-3 py-4 bg-white">
+                        <form>
+                            <div class="form-group">
+                                <div class="d-flex align-items-center input-group"><select class="custom-select custom-select-sm">
+                                        <option value="12" selected="">Anywhere</option>
+                                        <option value="13">Title</option>
+                                        <option value="14">Author</option>
+                                        <option value="">Keywords</option>
+                                        <option value="">Author Affiliation</option>
+                                    </select><input class="form-control form-control-sm" type="text" placeholder="Enter search term" style="min-width: 200px;">
+                                    <div class="input-group-append"><button class="btn btn-link btn-sm" type="button"><span class="mdi mdi-close mdi-sm"></span></button></div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="d-flex align-items-center input-group"><select class="custom-select custom-select-sm">
+                                        <option value="12" selected="">Anywhere</option>
+                                        <option value="13">Title</option>
+                                        <option value="14">Author</option>
+                                        <option value="">Keywords</option>
+                                        <option value="">Author Affiliation</option>
+                                    </select><input class="form-control form-control-sm" type="text" placeholder="Enter search term" style="min-width: 200px;">
+                                    <div class="input-group-append"><button class="btn btn-link btn-sm" type="button"><span class="mdi mdi-close mdi-sm"></span></button></div>
+                                </div>
+                            </div>
+                            <div class="form-group border-bottom pb-4 mb-4">
+                                <div class="d-flex align-items-center input-group"><select class="custom-select custom-select-sm">
+                                        <option value="12" selected="">Anywhere</option>
+                                        <option value="13">Title</option>
+                                        <option value="14">Author</option>
+                                        <option value="">Keywords</option>
+                                        <option value="">Author Affiliation</option>
+                                    </select><input class="form-control form-control-sm" type="text" placeholder="Enter search term" style="min-width: 200px;">
+                                    <div class="input-group-append"><button class="btn btn-link btn-sm" type="button"><span class="mdi mdi-plus-circle mdi-sm"></span></button></div>
+                                </div>
+                            </div>
+                            <div class="form-group border-bottom pb-4 mb-4"><label>Published in</label><input class="form-control" type="text" placeholder="Enter a journal, book or reference work title"></div>
+                            <div class="form-group mb-0"><label>Publication date</label></div>
+                            <div class="form-group">
+                                <div class="custom-control custom-control-inline custom-radio"><input class="custom-control-input" type="radio" id="formCheck-1" checked=""><label class="custom-control-label" for="formCheck-1">All dates</label></div>
+                            </div>
+                            <div class="form-group d-flex align-items-baseline">
+                                <div class="custom-control custom-control-inline custom-radio"><input class="custom-control-input" type="radio" id="formCheck-1"><label class="custom-control-label" for="formCheck-1">Last</label></div><select class="custom-select custom-select-sm" style="max-width: 150px;">
+                                    <option value="12" selected="">Month</option>
+                                    <option value="13">This is item 2</option>
+                                    <option value="14">This is item 3</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <div class="custom-control custom-control-inline custom-radio"><input class="custom-control-input" type="radio" id="formCheck-1"><label class="custom-control-label" for="formCheck-1">Custom range</label></div>
+                            </div>
+                            <div class="form-group"><label class="small">From</label>
+                                <div class="d-flex align-items-center input-group"><select class="custom-select custom-select-sm" style="max-width: 150px;">
+                                        <option value="" selected="">Month</option>
+                                        <option value="">January</option>
+                                    </select><select class="custom-select custom-select-sm" style="max-width: 150px;">
+                                        <option value="" selected="">Year</option>
+                                        <option value="">2020</option>
+                                        <option value="">2019</option>
+                                        <option value="">2018</option>
+                                    </select></div>
+                            </div>
+                            <div class="form-group"><label class="small">To</label>
+                                <div class="d-flex align-items-center input-group"><select class="custom-select custom-select-sm" style="max-width: 150px;">
+                                        <option value="" selected="">Month</option>
+                                        <option value="">January</option>
+                                    </select><select class="custom-select custom-select-sm" style="max-width: 150px;">
+                                        <option value="" selected="">Year</option>
+                                        <option value="">2020</option>
+                                        <option value="">2019</option>
+                                        <option value="">2018</option>
+                                    </select></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div id="menu-panel--citation-search" class="menu-panel">
+                    <div class="d-flex flex-shrink-0 justify-content-between align-items-center w-100" style="height: 44px;position:relative;"><button class="btn btn-link panel-trigger p-2" type="button" panel-target="#menu-panel--home" panel-target-placement="left"><span class="mdi mdi-chevron-left"></span></button>
+                        <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"><span class="text-truncate">Citation search</span></div>
+                    </div>
+                    <div class="px-2 py-4 bg-white">
+                        <form class="mb-4 pb-4 border-bottom">
+                            <div class="form-group"><label>Journal</label><input class="form-control" type="text" placeholder="Journal title"></div>
+                            <div class="form-row">
+                                <div class="col">
+                                    <div class="form-group"><label>Year</label><input class="form-control" type="text" placeholder="Year"></div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group"><label>Volume</label><input class="form-control" type="text" placeholder="Volume"></div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col">
+                                    <div class="form-group"><label>Issue</label><input class="form-control" type="text" placeholder="Issue"></div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group"><label>Page</label><input class="form-control" type="text" placeholder="Page"></div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-6">
+                                    <div class="form-group"><label>Citation #</label><input class="form-control" type="text" placeholder="Citation #"></div>
+                                </div>
+                            </div>
+                        </form>
+                        <h2 class="h6">Citation Help</h2>
+                        <p class="small">You can use the Boolean operators AND (also +&nbsp;or &amp;), OR and NOT (also -) within search fields. These operators must be entered in UPPERCASE to work.&nbsp;<br>If more than one term is entered, and no operators are specified, terms are searched using AND.&nbsp;To search for a phrase, put the terms in quotes.&nbsp;For example, spinal cord searches spinal AND cord while “spinal cord” finds this exact phrase.&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="d-lg-none border-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col"><small><span>Access by </span><a class="font-weight-bold" href="#"><span style="text-decoration: underline;">University of Toronto</span></a></small></div>
+            </div>
+        </div>
+    </section>
+    <header>
+        <div class="bg-white shadow-sm">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center py-2">
+                    <div class="d-flex m-n1"><button class="btn btn-primary d-inline-flex flex-grow-1 align-items-center panel-trigger m-1" type="button" panel-target="#menu-panel--advanced-search" panel-target-placement="right"><span class="mdi mdi-tune mr-2"></span><span class="text-left flex-fill small">Advanced search</span></button><button class="btn btn-primary d-inline-flex flex-grow-1 align-items-center panel-trigger m-1" type="button" panel-target="#menu-panel--citation-search" panel-target-placement="right"><span class="mdi mdi-format-quote-close mr-2"></span><span class="text-left flex-fill small">Citation search</span></button></div>
+                    <div class="d-inline-flex justify-content-end align-items-center"><button class="btn btn-link d-lg-none d-xl-none d-inline-flex p-2 text-decoration-none" data-target="#mobile-account" data-toggle="collapse" type="button"><i class="material-icons">account_circle</i></button>
+                        <div class="mr-2">
+                            <div class="input-group"><input class="form-control" type="text" placeholder="Search" style="width: 560px;">
+                                <div class="input-group-append"><button class="btn btn-primary p-1 menu-icon" type="button" data-toggle="collapse" data-target="#search-collapse"><span class="mdi mdi-magnify"></span></button></div>
+                            </div>
+                        </div><button class="btn btn-link d-none d-lg-inline-flex align-items-center" data-toggle="modal" data-target="#login-modal" type="button">Log in / Register</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="bg-white collapse show border-top" id="search-collapse">
+        <div class="container">
+            <div class="row">
+                <div class="col-8">
+                    <div class="my-3"><span class="d-flex mb-1 small font-weight-bolder mt-3">Based on your previous searches...</span>
+                        <div class="bg-white py-3 border-top border-bottom">
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Journal of Psychiatric and Mental Health Nursing</span><span><a href="#">Construct validity of a health questionnaire intended to measure the subjective experience of health among patients in mental health services</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Book</span><span><a href="#">20% Chance of Rain: Exploring the Concept of Risk</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">The Journal of Rural Health</span><span><a href="#">Rural Veterans' Health and Health Care</a></span><span class="d-flex justify-content-between small"><span>Volume 32, Issue 4, Fall 2016</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Journal of Intellectual Disability Research</span><span><a href="#">The relationship between physical ill‐health and mental ill‐health in adults with intellectual disabilities</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                            <div class="d-flex flex-column"><span class="small">Journal</span><span><a href="#">Addiction</a></span><span class="d-flex justify-content-end small"><span>Latest issue: <a href="#">Volume 1, Issue 4</a></span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="bg-white pb-3 border-bottom"><span class="d-flex mb-3 small font-weight-bolder mt-3 pb-1 border-bottom">Topics you might be interested in...</span>
+                        <div class="m-n1"><button class="btn btn-info btn-sm m-1" type="button">Electron &amp; Ion Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">Image Processing</button><button class="btn btn-info btn-sm m-1" type="button">Light Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">Scanning Probe Microscopy</button><button class="btn btn-info btn-sm m-1" type="button">X-Ray Analysis</button><button class="btn btn-outline-info btn-sm m-1" type="button">...more topics</button></div>
+                    </div>
+                    <div class="bg-white pb-3 my-3 border-bottom"><span class="d-flex mb-3 small font-weight-bolder mt-3 pb-1 border-bottom">Trending articles {{based on usage history}}</span>
+                        <div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">Effect of the Coronavirus Disease 2019 (COVID‐19) Pandemic on the United States Emergency Medical Services System: A Preliminary Report</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">New measurement technique for characterizing small extraterrestrial materials by X‐ray diffraction using the Gandolfi attachment</a></span><span class="d-flex justify-content-between small"><span>M.Diner, et al.</span><span>12 March 2020</span></span></div>
+                            <div class="d-flex flex-column mb-3 pb-3 border-bottom"><span class="small">Academic Emergency Medicine</span><span><a href="#">Effect of the Coronavirus Disease 2019 (COVID‐19) Pandemic on the United States Emergency Medical Services System: A Preliminary Report</a></span><span class="d-flex justify-content-between small"><span>R.Rogers, et al.</span><span>21 February 2019</span></span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="background-image:url(&quot;../../../assets/img/photographs/homepage-search-bg-1512396931468.png&quot;);background-repeat:no-repeat;background-size:cover;background-position:center;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="py-5">
+                        <h5 class="text-left text-white text-shadow">Accelerating research discovery to shape a better future</h5>
+                        <h1 class="text-left text-white serif text-shadow">Today's research, tomorrow's innovation</h1>
+                        <form>
+                            <div class="form-group mb-1">
+                                <div class="input-group input-group-lg"><input class="border-white form-control" type="text" placeholder="Search publications, articles, keywords, etc.">
+                                    <div class="input-group-append"><button class="btn btn-primary border-white d-inline-flex justify-content-center align-items-center px-1 py-0" type="button"><i class="material-icons" style="font-size: 36px;">search</i></button></div>
+                                </div>
+                            </div>
+                        </form><a class="text-white float-right" href="#">Advanced Search</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="py-3 border-top border-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <h2 class="text-center text-white m-md-0 h4">1,600+ Journals</h2>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <h2 class="text-center text-white m-md-0 h4">200+ Reference Works</h2>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <h2 class="text-center text-white m-md-0 h4">20,000+ Online Books</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="serif">Resources</h2>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="pl-3 border-left">
+                        <h3 class="h5"><a class="text-success" href="#">Researchers</a></h3>
+                        <ul class="list-unstyled">
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="article-view.html">Register online</a></li>
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="../../../publication/home.html">Discover tools and manage alerts</a></li>
+                            <li><a class="text-success font-weight-normal" href="my-account.html">Learn about how to access</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="pl-3 border-left">
+                        <h3 class="h5"><a class="text-success" href="#">Librarians</a></h3>
+                        <ul class="list-unstyled">
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="article-view.html">Manage your account</a></li>
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="../../../publication/home.html">View products and solutions</a></li>
+                            <li><a class="text-success font-weight-normal" href="my-account.html">Find Resources and support</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="pl-3 border-left">
+                        <h3 class="h5"><a class="text-success" href="#">Societies</a></h3>
+                        <ul class="list-unstyled">
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="article-view.html">Publish with Wiley</a></li>
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="../../../publication/home.html">Explore our resource library</a></li>
+                            <li><a class="text-success font-weight-normal" href="my-account.html">Learn about topics and trends</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="pl-3 border-left">
+                        <h3 class="h5"><a class="text-success" href="#">Authors</a></h3>
+                        <ul class="list-unstyled">
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="article-view.html">Submit a paper</a></li>
+                            <li class="mb-1"><a class="text-success font-weight-normal" href="../../../publication/home.html">Track your article</a></li>
+                            <li><a class="text-success font-weight-normal" href="my-account.html">Learn about Open Access</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="serif">Subjects</h2>
+                    <div role="tablist" id="subject-accordion" class="wol-accordion mb-4">
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between align-items-center text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-1" href="#subject-accordion .item-1" style="text-decoration:none;">Agriculture, Aquaculture, and Food Science<i class="material-icons ml-2">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-1" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between align-items-center text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-2" href="#subject-accordion .item-2">Architecture &amp; Planning<i class="material-icons ml-2">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-2" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-3" href="#subject-accordion .item-3">Art &amp; Applied<i class="material-icons">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-3" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between align-items-center text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-4" href="#subject-accordion .item-4">Business, Economics, Finance &amp; Accounting<i class="material-icons ml-2">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-4" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-5" href="#subject-accordion .item-5">Chemistry<i class="material-icons ml-2">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-5" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header bg-primary" role="tab">
+                                <h3 class="mb-0 h4"><a class="d-flex flex-grow-1 justify-content-between align-items-center text-white font-weight-light" data-toggle="collapse" aria-expanded="false" aria-controls="subject-accordion .item-6" href="#subject-accordion .item-6">Computer Science &amp; Information Technology<i class="material-icons ml-2">keyboard_arrow_up</i></a></h3>
+                            </div>
+                            <div class="collapse item-6" role="tabpanel" data-parent="#subject-accordion">
+                                <div class="card-body">
+                                    <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="text-white bg-dark py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">About Wiley Online Library</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Privacy Policy</a></li>
+                        <li><a class="text-light" href="#">Terms of Use</a></li>
+                        <li><a class="text-light" href="#">Cookies</a></li>
+                        <li><a class="text-light" href="#">Accessibility</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Help &amp; Support</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Opportunities</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Subscription Agents</a></li>
+                        <li><a class="text-light" href="#">Advertisers &amp; Corporate Partners</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Connect with Wiley</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">The Wiley Network</a></li>
+                        <li><a class="text-light" href="#">Wiley Press Room</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row justify-content-between">
+                <div class="col-12 col-lg-auto order-lg-2"><img class="d-block float-lg-right mx-auto my-3 mt-lg-0" src="../../../assets/img/logos/wiley-wordmark-white.svg" width="120" alt="Wiley"></div>
+                <div class="col-12 col-lg-auto order-lg-1">
+                    <p class="text-lg-left text-center"><small>Copyright © 1999-2020 John Wiley &amp; Sons, Inc. All rights reserved</small></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="modal fade" role="dialog" tabindex="-1" id="login-modal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header d-flex align-items-center px-5"><img class="img-fluid" src="../../../assets/img/logos/wol-logo.svg" width="200"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+                <div class="modal-body px-5">
+                    <h4 class="h5 mb-4">Log in with your society membership</h4>
+                    <div class="mb-4"><button class="btn btn-primary" type="button">Log in with ASI</button></div>
+                    <h4 class="h5 mb-4">Log in to Wiley Online Library</h4>
+                    <form class="mb-3">
+                        <div class="form-group"><label>Email or Customer ID</label><input class="form-control" type="email" required="" placeholder="Enter your email"></div>
+                        <div class="form-group"><label>Password</label><input class="form-control" type="password" required="" placeholder="Enter your password"></div>
+                        <div class="d-flex flex-column justify-content-between align-items-center flex-sm-row"><a href="#">Forgot password?</a>
+                            <div><button class="btn btn-primary" type="submit" style="min-width: 130px;">Log in</button></div>
+                        </div>
+                    </form>
+                    <div class="d-none flex-wrap"><a class="btn btn-primary btn-sm d-inline-flex flex-grow-1 justify-content-center align-items-center mr-sm-1 mb-2 btn-twitter" role="button" href="https://twitter.com/login" target="_blank"><i class="icon ion-social-twitter mr-2" style="font-size:18px;"></i>Log in with Twitter</a><a class="btn btn-primary btn-sm d-inline-flex flex-grow-1 justify-content-center align-items-center ml-sm-1 mb-2 btn-orcid text-white" role="button" href="https://orcid.org/signin" target="_blank"><img class="mr-2" style="width:24px;" src="../../../assets/img/social-media-login/orchid.svg">Log in with ORCID</a></div>
+                </div>
+                <div class="modal-footer justify-content-between px-5 text-uppercase"><a class="small" href="#">New user &gt;</a><a class="small" href="#">Institutional login &gt;</a></div>
+            </div>
+        </div>
+    </div>
+    <script src="../../../assets/js/jquery.min.js"></script>
+    <script src="../../../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    <script src="../../../assets/js/bs-enables.js"></script>
+    <script src="../../../assets/js/demo-functions.js"></script>
+    <script src="../../../assets/js/collapse-group.js"></script>
+    <script src="../../../assets/js/global-search.js"></script>
+    <script src="../../../assets/js/sitemap.js"></script>
+    <script src="../../../assets/js/cover-gallery.js"></script>
+    <script src="../../../assets/js/ereader-access-window.js"></script>
+    <script src="https://service.seamlessaccess.org/thiss.js"></script>
+    <script src="../../../assets/js/menu-panels.js"></script>
+    <script src="../../../assets/js/non-sticky-references.js"></script>
+    <script src="../../../assets/js/search-autosuggest.js"></script>
+    <script src="../../../assets/js/search-menu.js"></script>
+    <script src="../../../assets/js/stop-dropdown-closing.js"></script>
+</body>
+
+</html>

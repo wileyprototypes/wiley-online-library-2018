@@ -1,0 +1,11 @@
+// Access Denied button hover
+a {
+    .hover-animation {
+        transition-duration: 0.5s;
+        transition-property: transform;
+        transform: translateX(-5px);
+    }
+    &:hover .hover-animation, &:focus .hover-animation {
+        transform: translateX(5px);
+    }
+}

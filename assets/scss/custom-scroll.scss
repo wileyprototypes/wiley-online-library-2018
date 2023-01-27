@@ -1,0 +1,47 @@
+/* width */
+.wol-scroll::-webkit-scrollbar {
+  width: 8px;
+height:8px;
+}
+
+/* Track */
+.wol-scroll::-webkit-scrollbar-track {
+  background: var(--light); 
+}
+ 
+/* Handle */
+.wol-scroll::-webkit-scrollbar-thumb {
+  background: var(--blue); 
+}
+
+/* Handle on hover */
+.wol-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+}
+
+.wol-scroll-cont {
+    position: relative;
+    &:before {
+        pointer-events: none;
+        content: "";
+        position: absolute;
+        height: 100%;
+        top: 0;
+        right: 0;
+        width: 15%;
+        background: linear-gradient(270deg, rgba(0,0,0,0.1), rgba(0,0,0,0));
+    }
+    &:after {
+        pointer-events: none;
+        content: "";
+        position: absolute;
+        height: 100%;
+        top: 0;
+        left: 0;
+        width: 15%;
+        background: linear-gradient(90deg, rgba(0,0,0,0.1), rgba(0,0,0,0));
+    }
+}
+.wol-scroll img {
+    scroll-snap-align: start;
+}

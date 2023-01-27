@@ -1,0 +1,26 @@
+.read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  display: none;
+}
+
+.read-more-state:checked ~ p .read-more-wrap .read-more-target {
+  display: initial;
+}
+
+.read-more-state ~ p .read-more-trigger:before {
+  content: '...\00a0Show\00a0more';
+}
+
+.read-more-state:checked ~ p .read-more-trigger:before {
+  content: '...\00a0Show\00a0less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline;
+  font-weight: 600;
+}
+

@@ -1,0 +1,10 @@
+.non-sticky-references--panel {
+  top: 0;
+  transition-property: top;
+  transition-duration: 0.5s;
+  height: calc(100% - 300px);
+}
+.non-sticky-references--panel.non-sticky-references--panel--active {
+  position: relative;
+  height: calc(100% - 1600px - 300px);
+}

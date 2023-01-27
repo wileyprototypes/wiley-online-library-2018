@@ -1,0 +1,13 @@
+.dynamic-collapse-btn.collapsed .show-when-open {
+  display: none !important;
+}
+.dynamic-collapse-btn.collapsed .show-when-closed {
+  display: initial;
+}
+
+.dynamic-collapse-btn:not(.collapsed) .show-when-open {
+  display: initial;
+}
+.dynamic-collapse-btn:not(.collapsed) .show-when-closed {
+  display: none !important;
+}

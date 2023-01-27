@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Wiley Online Library Designs</title>
+    <meta property="og:image" content="https://wol.bss.design/assets/img/wiley-card-image.jpg">
+    <meta name="twitter:description" content="A site for communicating designs relating to Wiley Online Library">
+    <meta property="og:type" content="website">
+    <meta name="description" content="A site for communicating designs relating to Wiley Online Library">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Wiley Online Library Designs">
+    <link rel="stylesheet" href="../../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro">
+    <link rel="stylesheet" href="../../assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../../assets/css/animations.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/article-authors--popover.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/article-select.css">
+    <link rel="stylesheet" href="../../assets/css/coloured-navs.css">
+    <link rel="stylesheet" href="../../assets/css/general.css">
+    <link rel="stylesheet" href="../../assets/css/mdi-utilities.css">
+    <link rel="stylesheet" href="../../assets/css/menu-collapse-button.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/old-styles.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/read-more.css">
+    <link rel="stylesheet" href="../../assets/css/skip-links.css">
+    <link rel="stylesheet" href="../../assets/css/slider.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/dynamic-collapse-btn.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/sticky-navs.css">
+    <link rel="stylesheet" href="../../assets/css/styles.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/wol-slideshow.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/article-view.css">
+    <link rel="stylesheet" href="../../assets/css/author-lists.css">
+    <link rel="stylesheet" href="../../assets/css/bootstrap-collapse-width.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/custom-scroll.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/non-sticky-references.compiled.css">
+    <link rel="stylesheet" href="../../assets/css/search-menu.compiled.css">
+</head>
+
+<body>
+    <div style="position: absolute;top: 10px;right: 10px;z-index: 1050;">
+        <div class="toast fade hide" role="alert" data-autohide="false" data-delay="2500" id="test-toast">
+            <div class="toast-header"><i class="material-icons text-success mr-2">add_alert</i><strong class="mr-auto text-success">Added content alert</strong><button class="close ml-2 mb-1 close" data-dismiss="toast"><span aria-hidden="true">×</span></button></div>
+            <div class="toast-body" role="alert">
+                <p>You have successfully subscribed to <strong>The Journal of Architectural Science</strong> content alerts</p>
+                <div class="text-right"><button class="btn btn-primary btn-sm" type="button">View content alerts</button></div>
+            </div>
+        </div>
+    </div>
+    <div class="skip-links">
+        <ul class="list-unstyled m-0">
+            <li><a href="#journal-header">Skip to journal information and navigation</a></li>
+            <li><a href="#journal-home">Skip to main content</a></li>
+        </ul>
+    </div>
+    <section class="d-lg-none border-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col"><a class="text-secondary" href="#"><small>Access by <strong>University of Toronto</strong></small></a></div>
+            </div>
+        </div>
+    </section>
+    <div class="sticky-top">
+        <div class="bg-white shadow-sm">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center py-2">
+                    <div class="d-inline-block"><a href="/"><img class="img-fluid d-none d-sm-inline-block" src="../../assets/img/logos/wol-logo.svg" width="210" alt="Wiley Online Library"><img class="img-fluid d-sm-none" src="../../assets/img/logos/wol-logo.svg" width="150" alt="Wiley Online Library"></a><a class="d-none d-lg-inline ml-4" href="#"><img src="https://via.placeholder.com/200x40?text=INSTITUTIONAL+BRANDING" alt="institutional branding"></a></div>
+                    <div class="d-inline-flex justify-content-end align-items-center"><button class="btn btn-link d-xl-none d-inline-flex p-2 text-decoration-none" data-target="#mobile-search" data-toggle="collapse" type="button"><i class="material-icons">search</i></button><button class="btn btn-link d-lg-none d-xl-none d-inline-flex p-2 text-decoration-none" data-target="#mobile-account" data-toggle="collapse" type="button"><i class="material-icons">account_circle</i></button>
+                        <form class="d-none d-xl-block mr-2" id="global-header-search">
+                            <div class="d-inline-flex input-group">
+                                <div class="input-group-prepen">
+                                    <div class="dropdown"><button class="btn btn-primary dropdown-toggle" aria-expanded="false" data-toggle="dropdown" type="button">This Journal</button>
+                                        <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">This Journal</a><a class="dropdown-item" href="#">Anywhere</a></div>
+                                    </div>
+                                </div>
+                                <div class="search-container"><input class="form-control" type="search" id="global-search-input" title="Search Wiley Online Library" placeholder="Search">
+                                    <div id="global-search-actions" class="global-search-actions">
+                                        <div class="btn-group btn-group-sm bg-white" role="group"><button class="btn btn-outline-primary" type="button">Advanced Search</button><button class="btn btn-outline-primary" type="button">Citation Search</button></div>
+                                    </div>
+                                </div>
+                                <div class="input-group-append"><button class="btn btn-primary" style="padding-right:6px;padding-left:6px;" type="button"><i class="material-icons float-left">search</i></button></div>
+                            </div>
+                        </form><button class="btn btn-link d-none d-lg-inline-block" data-toggle="modal" data-target="#login-modal" type="button">Log in / Register</button>
+                        <div class="dropdown d-none"><button class="btn btn-link dropdown-toggle" aria-expanded="false" data-toggle="dropdown" type="button">Stuart</button>
+                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item text-primary" href="#">My Account</a><a class="dropdown-item text-primary" href="#">Institutional Admin</a><a class="dropdown-item text-warning" href="#">Log Out</a></div>
+                        </div><button class="btn btn-link d-inline-flex p-2 text-decoration-none" data-target="#mobile-society" data-toggle="collapse" type="button"><i class="material-icons">menu</i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-primary sticky-top shadow-sm">
+            <div class="container">
+                <div id="mobile-search" class="collapse">
+                    <div class="py-2">
+                        <form class="mb-2">
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <div class="dropdown btn-group" role="group"><button class="btn btn-outline-light dropdown-toggle" aria-expanded="false" data-toggle="dropdown" type="button">This Journal</button>
+                                        <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">This Journal</a><a class="dropdown-item" href="#">Anywhere</a></div>
+                                    </div>
+                                </div><input class="form-control border-0" type="search" placeholder="Search">
+                                <div class="input-group-append"><button class="btn btn-outline-light" style="padding-right:6px;padding-left:6px;" type="button"><i class="material-icons float-left">search</i></button></div>
+                            </div>
+                        </form>
+                        <div class="btn-group btn-group-sm d-flex justify-content-center" role="group"><button class="btn btn-outline-light" type="button">Advanced Search</button><button class="btn btn-outline-light" type="button">Citation Search</button></div>
+                    </div>
+                </div>
+                <div id="mobile-account" class="collapse">
+                    <div class="py-2"><button class="btn btn-link btn-block text-white" type="button">My Account</button><button class="btn btn-link btn-block text-white" type="button">Institutional Admin</button><button class="btn btn-link btn-block text-white-50" type="button">Log out</button></div>
+                </div>
+                <div id="mobile-society" class="collapse">
+                    <div class="position-relative py-2"><button class="btn btn-link d-block text-light" type="button">About</button><button class="btn btn-link d-block text-light" type="button">Community</button>
+                        <div class="wol-accordion"><a class="btn btn-link d-flex text-light" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button">Journals<i class="material-icons ml-1">keyboard_arrow_up</i></a>
+                            <div class="collapse bg-light" id="collapse-1"><button class="btn btn-link d-block" type="button">Journal 1</button><button class="btn btn-link d-block" type="button">Journal 2</button><button class="btn btn-link d-block" type="button">Journal 3</button><button class="btn btn-link d-block" type="button">Journal 4</button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="bg-light shadow-sm-inset">
+        <div class="container-fluid px-0">
+            <div class="row no-gutters">
+                <div class="col-12">
+                    <div class="d-block d-flex justify-content-center py-lg-2"><span class="leaderboard-ad"><img class="img-fluid d-block" src="https://via.placeholder.com/728x90?text=LEADERBOARD+AD"></span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="journal-header" class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-8">
+                    <section id="journal-branding"><img class="img-fluid mb-2" src="https://via.placeholder.com/800x100?text=JOURNAL+BRANDING"></section>
+                    <section id="journal-metadata">
+                        <ul class="list-unstyled">
+                            <li><small><span class="text-muted">Edited By:&nbsp;</span>John Smith</small></li>
+                            <li><small><span class="text-muted">Impact Factor:&nbsp;</span>1.234</small></li>
+                            <li><small><span class="text-muted">ISI Journal Citation Reports @ Ranking 2016:&nbsp;</span>48/96 (Business, Finance); 23/96 (Architecture and Planning); 2/56 (Composite Materials)</small></li>
+                            <li><small><span class="text-muted">Online ISSN:&nbsp;</span>1234-5678</small></li>
+                            <li><small><span class="text-muted">Copyright © 1999-2018&nbsp;<a href="http://www.wiley.com/">John Wiley &amp; Sons, Inc</a>. All rights reserved<br></span></small></li>
+                        </ul>
+                    </section>
+                </div>
+                <div class="col-12 col-md-4">
+                    <section class="d-flex align-items-start"><img class="img-fluid d-block shadow-sm" style="margin-right:10px;" src="https://via.placeholder.com/100x130?text=COVER">
+                        <div>
+                            <div><a class="d-flex" href="#">Current Issue<i class="material-icons d-inline-block">chevron_right</i></a></div>
+                            <ul class="list-unstyled">
+                                <li>The Full title of the issue</li>
+                                <li><small>Volume 54, Issue 2<br></small></li>
+                                <li><small>March 2018<br></small></li>
+                            </ul>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="sticky-top publication-nav shadow-sm" style="top: 58px">
+        <div class="bg-primary shadow-sm">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="d-lg-none d-inline-flex"><button class="btn btn-primary d-inline-flex p-2 text-decoration-none" data-target="#mobile-journal-menu" data-toggle="collapse" type="button">Journal</button><button class="btn btn-primary d-inline-flex p-2 text-decoration-none" data-target="#mobile-journal-articles" data-toggle="collapse" type="button">Articles</button></div>
+                    <div class="d-none d-lg-inline-flex justify-content-end align-items-center"><a class="btn btn-primary p-2" role="button" href="#">Home</a>
+                        <div class="dropdown"><button class="btn btn-primary dropdown-toggle p-2" aria-expanded="false" data-toggle="dropdown" type="button">About</button>
+                            <div class="dropdown-menu"><a class="dropdown-item" href="#">Overview</a><a class="dropdown-item" href="#">Contact</a><a class="dropdown-item" href="#">Editorial Board</a><a class="dropdown-item" href="#">Advertise</a><a class="dropdown-item" href="#">Permissions</a></div>
+                        </div>
+                        <div class="dropdown"><button class="btn btn-primary dropdown-toggle p-2" aria-expanded="false" data-toggle="dropdown" type="button">Contribute</button>
+                            <div class="dropdown-menu"><a class="dropdown-item" href="#">Author Guidelines</a><a class="dropdown-item" href="#">Open Access</a><a class="dropdown-item" href="#">Submit a Manuscript</a><a class="dropdown-item" href="#">For Referees</a></div>
+                        </div>
+                        <div class="dropdown"><button class="btn btn-primary dropdown-toggle p-2" aria-expanded="false" data-toggle="dropdown" type="button">Browse</button>
+                            <div class="dropdown-menu"><a class="dropdown-item" href="#">Early View</a><a class="dropdown-item" href="#">Current Issue</a><a class="dropdown-item" href="#">All Issues</a><a class="dropdown-item" href="#">Virtual Issues</a></div>
+                        </div>
+                    </div>
+                    <div class="d-none d-lg-block"><button class="btn btn-primary d-inline-flex align-items-center" type="button"><span class="mdi mdi-instagram" style="font-size: 24px;"></span></button><button class="btn btn-primary d-inline-flex align-items-center" type="button"><span class="mdi mdi-twitter" style="font-size: 24px;"></span></button><button class="btn btn-primary d-inline-flex align-items-center" type="button"><span class="mdi mdi-facebook" style="font-size: 24px;"></span></button><button class="btn btn-primary d-inline-flex align-items-center" type="button"><span class="mdi mdi-rss" style="font-size: 24px;"></span></button></div>
+                    <div class="d-lg-none"><button class="btn btn-primary d-inline-flex p-2 text-decoration-none" data-target="#mobile-journal-actions" data-toggle="collapse" type="button">Actions</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-light shadow-sm-inset border-top" style="max-height:75vh;overflow-y:auto;">
+            <div class="container">
+                <div id="mobile-journal-menu" class="collapse">
+                    <div class="position-relative py-2"><button class="btn btn-link d-block text-light" type="button">Home</button>
+                        <div class="wol-accordion"><a class="btn btn-link d-flex text-light" data-toggle="collapse" aria-expanded="false" aria-controls="mobile-journal-menu--about" href="#mobile-journal-menu--about" role="button">About<i class="material-icons ml-1">keyboard_arrow_up</i></a>
+                            <div class="collapse bg-light" id="mobile-journal-menu--about"><button class="btn btn-link d-block" type="button">Overview</button><button class="btn btn-link d-block" type="button">Contact</button><button class="btn btn-link d-block" type="button">Editorial Board</button><button class="btn btn-link d-block" type="button">Advertise</button><button class="btn btn-link d-block" type="button">Permissions</button></div>
+                        </div>
+                        <div class="wol-accordion"><a class="btn btn-link d-flex text-light" data-toggle="collapse" aria-expanded="false" aria-controls="mobile-journal-menu--contribute" href="#mobile-journal-menu--contribute" role="button">Contribute<i class="material-icons ml-1">keyboard_arrow_up</i></a>
+                            <div class="collapse bg-light" id="mobile-journal-menu--contribute"><button class="btn btn-link d-block" type="button">Author Guidelines</button><button class="btn btn-link d-block" type="button">Open Access</button><button class="btn btn-link d-block" type="button">Submit a Manuscript</button><button class="btn btn-link d-block" type="button">For Referees</button></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="mobile-journal-articles" class="collapse">
+                    <div class="position-relative py-2"><button class="btn btn-link d-block text-light" type="button">Current Issue</button><button class="btn btn-link d-block text-light" type="button">All Issues</button><button class="btn btn-link d-block text-light" type="button">Accepted Articles</button><button class="btn btn-link d-block text-light" type="button">Early View</button></div>
+                </div>
+                <div id="mobile-journal-actions" class="collapse">
+                    <div class="position-relative py-2">
+                        <section class="mb-3 border-bottom pb-3">
+                            <h4 class="h6">Tools</h4><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-file-document-edit mr-2"></span>Submit an article</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-file-document mr-2"></span>Browse free sample issue</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-thumb-up mr-2"></span>Recommend to a librarian</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-star-circle mr-2"></span>Subscribe to this journal</button>
+                        </section>
+                        <section>
+                            <h4 class="h6">Follow Journal</h4><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-email-plus mr-2"></span>Sign up for email alerts</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-rss mr-2"></span>Most Recent (RSS)</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-rss mr-2"></span>Most cited (RSS)</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-facebook mr-2"></span>Facebook</button><button class="btn btn-link btn-block d-inline-flex align-items-center p-0" type="button"><span class="mdi mdi-sm mdi-instagram mr-2"></span>Instagram</button>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section id="journal-home" class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <section id="carousel" class="mb-4">
+                        <div class="carousel slide" data-ride="carousel" id="carousel-1">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active"><img class="w-100 d-block" src="https://via.placeholder.com/1400x600.png?text=Carousel+Image" alt="Slide Image"></div>
+                                <div class="carousel-item"><img class="w-100 d-block" src="https://via.placeholder.com/1400x600.png?text=Carousel+Image" alt="Slide Image"></div>
+                                <div class="carousel-item"><img class="w-100 d-block" src="https://via.placeholder.com/1400x600.png?text=Carousel+Image" alt="Slide Image"></div>
+                            </div>
+                            <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><span class="carousel-control-prev-icon"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-slide="next"><span class="carousel-control-next-icon"></span><span class="sr-only">Next</span></a></div>
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                                <li data-target="#carousel-1" data-slide-to="1"></li>
+                                <li data-target="#carousel-1" data-slide-to="2"></li>
+                            </ol>
+                        </div>
+                    </section>
+                    <section id="overview" class="mb-4">
+                        <h3 class="serif">Overview</h3>
+                        <div class="mb-1 border-bottom">
+                            <p>Lorem ipsum dolor sit amet, pri quas petentium eu, scripta sanctus evertitur pri ne. Sed ad ancillae platonem. Quas paulo disputationi cu eam. Nec incorrupte constituam appellantur ad, vim sint officiis legendos ne.</p>
+                        </div>
+                        <div class="text-right"><a class="d-inline-flex" href="#">More about this journal<i class="material-icons hover-animation ml-2">chevron_right</i></a></div>
+                    </section>
+                    <section id="articles" class="mb-4">
+                        <h3 class="serif">Articles</h3>
+                        <div>
+                            <ul class="nav nav-pills border-primary border-bottom mb-3" role="tablist">
+                                <li class="nav-item mr-1" role="presentation"><a class="nav-link" role="tab" data-toggle="pill" href="#tab-1">Most Recent</a></li>
+                                <li class="nav-item mr-1" role="presentation"><a class="nav-link" role="tab" data-toggle="pill" href="#tab-2">Most Accessed</a></li>
+                                <li class="nav-item mr-1" role="presentation"><a class="nav-link" role="tab" data-toggle="pill" href="#tab-3">Most Cited</a></li>
+                                <li class="nav-item" role="presentation"><a class="nav-link active" role="tab" data-toggle="pill" href="#tab-4">Highlighted</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade" role="tabpanel" id="tab-1">
+                                    <p>Content for tab 1.</p>
+                                </div>
+                                <div class="tab-pane fade" role="tabpanel" id="tab-2">
+                                    <p>Content for tab 2.</p>
+                                </div>
+                                <div class="tab-pane fade" role="tabpanel" id="tab-3">
+                                    <p>Content for tab 3.</p>
+                                </div>
+                                <div class="tab-pane fade show active" role="tabpanel" id="tab-4">
+                                    <div>
+                                        <div>
+                                            <div>
+                                                <ul class="list-inline d-flex flex-wrap mb-2" style="font-size:14px;">
+                                                    <li class="list-inline-item">Category or type</li>
+                                                    <li class="list-inline-item d-inline-flex" style="color:#61165e;"><i class="material-icons my-auto mr-1" style="font-size:18px;">lock_open</i>Open Access</li>
+                                                </ul>
+                                            </div><a href="#">
+                                                <h5 class="mb-2">The Impact of Mandatory International Financial Reporting Standards Adoption on Investment Efficiency: Standards, Enforcement, and Reporting Incentives</h5>
+                                            </a>
+                                            <ul class="list-inline article-author-list mb-2" style="font-size:14px;">
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Paulita Plott</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Vi Vail</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Drema Devoe</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Annita Armor</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Awilda Adcock</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Elaine Emanuel</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Jamal Jhonson</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Celestina Crossland</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Lauretta Lown</a></li>
+                                                <li class="list-inline-item"><a class="text-muted" href="#">Shaniqua Suchan</a></li>
+                                            </ul>
+                                            <ul class="list-inline article-metadata-list mb-2" style="font-size:14px;">
+                                                <li class="list-inline-item"><a href="#">Journal of Architectural Materials</a></li>
+                                                <li class="list-inline-item"><a href="#">doi.org/10.1002/anie.201803358</a></li>
+                                                <li class="list-inline-item"><span class="text-muted">Pages:&nbsp;</span>36-65</li>
+                                                <li class="list-inline-item"><span class="text-muted">First published:&nbsp;</span>16 April 2018</li>
+                                            </ul>
+                                            <ul class="list-inline article-metadata-list mb-2" style="font-size:14px;">
+                                                <li class="list-inline-item"><a class="font-weight-bold" href="#">Abstract</a></li>
+                                                <li class="list-inline-item"><a class="font-weight-bold" href="#">Full text</a></li>
+                                                <li class="list-inline-item"><a class="font-weight-bold" href="#">PDF</a></li>
+                                                <li class="list-inline-item"><a class="font-weight-bold" href="#">References</a></li>
+                                                <li class="list-inline-item"><a class="font-weight-bold" href="#">Request Permissions</a></li>
+                                            </ul>
+                                            <div class="my-3 pl-3 border-left article-graphical-abstract clearfix"><img class="img-thumbnail img-fluid d-block float-md-left mr-auto ml-auto mr-md-3 mb-3" src="https://via.placeholder.com/320x320?text=GRAPHICAL+ABSTRACT">
+                                                <p>Lorem ipsum dolor sit amet, enim animal mandamus in est, malis prompta per in, mundi dolor oporteat quo ad. An nisl congue pro, ea mel falli verterem iracundia. Has graece cotidieque id. An discere inciderint eos, ex eos decore tacimates reprehendunt. Per id numquam dolores liberavisse, eum ea lorem disputando philosophia.</p>
+                                                <p>Ex case vituperata persequeris nec, quodsi equidem cum in. Dicunt suscipit cu duo. Perpetua consetetur honestatis cu vim. Te vel nusquam epicurei, no duo consul ignota. Eius fierent cu est, cibo homero eloquentiam vim at.</p>
+                                            </div>
+                                            <hr>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-end"><a class="d-inline-block d-inline-flex justify-content-end" href="#">More highlighted articles<i class="material-icons text-decoration-none">chevron_right</i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="recent-issues" class="mb-4">
+                        <h3 class="serif">Recent Issues</h3>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start"><img class="img-fluid mr-3 mb-4 shadow-sm" src="https://via.placeholder.com/100x130?text=COVER">
+                                    <div>
+                                        <h6><a href="#">Volume 54, Issue 1</a></h6>
+                                        <p>Current Issues and Contriversies in Architectural Materials</p>
+                                        <p><small><span class="text-muted">Pages:&nbsp;</span>299-430<br>March 2018<br></small></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start"><img class="img-fluid mr-3 mb-4 shadow-sm" src="https://via.placeholder.com/100x130?text=COVER">
+                                    <div>
+                                        <h6><a href="#">Volume 54, Issue 1</a></h6>
+                                        <p>Current Issues and Contriversies in Architectural Materials</p>
+                                        <p><small><span class="text-muted">Pages:&nbsp;</span>299-430<br>March 2018<br></small></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start"><img class="img-fluid mr-3 mb-4 shadow-sm" src="https://via.placeholder.com/100x130?text=COVER">
+                                    <div>
+                                        <h6><a href="#">Volume 54, Issue 1</a></h6>
+                                        <p>Current Issues and Contriversies in Architectural Materials</p>
+                                        <p><small><span class="text-muted">Pages:&nbsp;</span>299-430<br>March 2018<br></small></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start"><img class="img-fluid mr-3 mb-4 shadow-sm" src="https://via.placeholder.com/100x130?text=COVER">
+                                    <div>
+                                        <h6><a href="#">Volume 54, Issue 1</a></h6>
+                                        <p>Current Issues and Contriversies in Architectural Materials</p>
+                                        <p><small><span class="text-muted">Pages:&nbsp;</span>299-430<br>March 2018<br></small></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="d-flex justify-content-end"><a class="d-inline-block d-inline-flex justify-content-end" href="#">More issues<i class="material-icons text-decoration-none">chevron_right</i></a></div>
+                    </section>
+                </div>
+                <div class="col">
+                    <section id="quick-links" class="mb-4">
+                        <div class="d-flex justify-content-start align-items-start p-3"><span class="text-success mdi mdi-email-check mr-3" style="font-size: 24px;"></span>
+                            <div class="d-flex flex-column flex-fill">
+                                <h3 class="text-success h5 mb-0">Successfully signed up to email alerts</h3>
+                            </div>
+                        </div>
+                        <div class="list-group list-group-flush" style="color:#005274;"><a class="list-group-item list-group-item-action text-primary d-flex px-3" href="#"><i class="material-icons mr-3">edit</i><span>Submit an Article</span></a><a class="list-group-item list-group-item-action text-primary d-flex px-3" href="#"><i class="material-icons mr-3">library_books</i><span>Browse free sample issue</span></a><a class="list-group-item list-group-item-action text-primary d-flex px-3" href="#"><i class="material-icons mr-3">stars</i><span>Subscribe to this journal</span></a></div>
+                    </section>
+                    <section class="mb-4">
+                        <div class="d-flex flex-column align-items-center"><small>Advertisement</small><img class="img-fluid d-block" src="../../assets/img/ads/ad-300x250.jpg"></div>
+                    </section>
+                    <section id="society-affiliations" class="mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <p class="text-center card-text"><small>Published on behalf of the Society for Architectural Materials</small></p><img class="img-fluid d-block mx-auto" src="https://via.placeholder.com/250x150?text=SOCIETY+BRANDING">
+                            </div>
+                        </div>
+                    </section>
+                    <section class="mb-4">
+                        <h5 class="serif">More from this journal</h5>
+                        <ul>
+                            <li><a href="#">The annual Abacus US$10,000 Best Manuscripts Award</a></li>
+                            <li><a href="#">Revisiting Ray Chambers</a></li>
+                        </ul>
+                    </section>
+                    <section class="mb-4">
+                        <div class="d-flex flex-column align-items-center"><small>Advertisement</small><img class="img-fluid d-block" src="../../assets/img/ads/ad-300x250.jpg"></div>
+                    </section>
+                    <section class="mb-4"><a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="text-light py-4" style="background-color: #003951;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">About Wiley Online Library</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Privacy Policy</a></li>
+                        <li><a class="text-light" href="#">Terms of Use</a></li>
+                        <li><a class="text-light" href="#">Cookies</a></li>
+                        <li><a class="text-light" href="#">Accessibility</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Help &amp; Support</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Opportunities</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">Subscription Agents</a></li>
+                        <li><a class="text-light" href="#">Advertisers &amp; Corporate Partners</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-3 text-center text-lg-left">
+                    <h2 class="h5 font-weight-light">Connect with Wiley</h2>
+                    <ul class="list-unstyled">
+                        <li><a class="text-light" href="#">The Wiley Network</a></li>
+                        <li><a class="text-light" href="#">Wiley Press Room</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row justify-content-between">
+                <div class="col-12 col-lg-auto order-lg-2"><img class="d-block float-lg-right mx-auto my-3 mt-lg-0" src="../../assets/img/logos/wiley-wordmark-white.svg" width="120" alt="Wiley"></div>
+                <div class="col-12 col-lg-auto order-lg-1">
+                    <p class="text-lg-left text-center"><small>Copyright © 1999-2018 John Wiley &amp; Sons, Inc. All rights reserved</small></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="modal fade" role="dialog" tabindex="-1" id="login-modal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header d-flex align-items-center"><img class="img-fluid" src="../../assets/img/logos/wol-logo.svg" width="200"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+                <div class="modal-body">
+                    <h4 class="font-weight-light m-0">Log in with your institution</h4>
+                    <p><small class="text-muted">Log in with OpenAthens, Shiboleth, or other institutional credentials.</small></p>
+                    <div class="mb-3"><button class="btn btn-primary d-inline-flex align-items-center" type="button"><i class="material-icons mr-2">account_balance</i>Institutional Login</button></div>
+                    <hr>
+                    <h4 class="font-weight-light">Log in as a member</h4>
+                    <div class="mb-3"><button class="btn btn-primary" type="button">Log in with AGU</button></div>
+                    <hr>
+                    <h4 class="font-weight-light">Log in to Wiley Online Library</h4>
+                    <form class="mb-3">
+                        <div class="form-group"><label>Email or Customer ID</label><input class="form-control" type="email" required="" placeholder="Enter your email"></div>
+                        <div class="form-group"><label>Password</label><input class="form-control" type="password" required="" placeholder="Enter your password"></div>
+                        <div class="d-flex justify-content-between"><button class="btn btn-link btn-sm" type="button">Forgot your password?</button>
+                            <div><button class="btn btn-link d-inline-flex align-items-center text-decoration-none" type="submit"><i class="material-icons mr-2">person_add</i>Register</button><button class="btn btn-primary" type="submit">Log in</button></div>
+                        </div>
+                    </form>
+                    <div class="d-flex justify-content-center flex-wrap"><a class="btn btn-primary btn-sm d-inline-flex flex-grow-1 justify-content-center align-items-center mr-sm-1 mb-2 btn-twitter" role="button" href="https://twitter.com/login" target="_blank"><i class="icon ion-social-twitter mr-2" style="font-size:18px;"></i>Log in with Twitter</a><a class="btn btn-primary btn-sm d-inline-flex flex-grow-1 justify-content-center align-items-center ml-sm-1 mb-2 btn-orcid text-white" role="button" href="https://orcid.org/signin" target="_blank"><img class="mr-2" style="width:24px;" src="../../assets/img/social-media-login/orchid.svg">Log in with ORCID</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" role="dialog" tabindex="-1" id="content-alerts">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header d-flex align-items-center"><img class="img-fluid" src="../../assets/img/logos/wol-logo.svg" width="200"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+                <div class="modal-body">
+                    <h4 class="font-weight-light">Log in or register to get <strong>content alerts</strong></h4>
+                    <form>
+                        <div class="form-group"><label>Email or Customer ID</label><input class="form-control" type="email" required="" placeholder="Enter your email"></div>
+                        <div class="form-group"><label>Password</label><input class="form-control" type="password" required="" placeholder="Enter your password"></div>
+                        <div class="d-flex justify-content-between"><button class="btn btn-link btn-sm" type="button">Forgot your password?</button>
+                            <div><button class="btn btn-link d-inline-flex align-items-center text-decoration-none" type="submit"><i class="material-icons mr-2">person_add</i>Register</button><button class="btn btn-primary" id="content-alert-success" data-dismiss="modal" type="button">Log in</button></div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="../../assets/js/jquery.min.js"></script>
+    <script src="../../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    <script src="../../assets/js/bs-enables.js"></script>
+    <script src="../../assets/js/demo-functions.js"></script>
+    <script src="../../assets/js/collapse-group.js"></script>
+    <script src="../../assets/js/global-search.js"></script>
+    <script src="../../assets/js/sitemap.js"></script>
+    <script src="../../assets/js/cover-gallery.js"></script>
+    <script src="../../assets/js/ereader-access-window.js"></script>
+    <script src="https://service.seamlessaccess.org/thiss.js"></script>
+    <script src="../../assets/js/menu-panels.js"></script>
+    <script src="../../assets/js/non-sticky-references.js"></script>
+    <script src="../../assets/js/search-autosuggest.js"></script>
+    <script src="../../assets/js/search-menu.js"></script>
+    <script src="../../assets/js/stop-dropdown-closing.js"></script>
+</body>
+
+</html>

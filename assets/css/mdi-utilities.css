@@ -1,0 +1,23 @@
+/* mdi icon font utilities */
+
+.material-icons, .mdi {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  cursor: inherit;
+  line-height: 1;
+  font-size: 24px;
+}
+
+.mdi-sm {
+  font-size: 18px!important;
+}
+
+.mdi-lg {
+  font-size: 36px!important;
+}
+
+.mdi-xl {
+  font-size: 48px!important;
+}
+

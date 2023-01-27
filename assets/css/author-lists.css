@@ -1,0 +1,8 @@
+ul.al-eg-1 li:after {
+  content: ",";
+}
+
+ul.al-eg-1 li:last-child:after {
+  content: "";
+}
+

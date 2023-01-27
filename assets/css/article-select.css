@@ -1,0 +1,16 @@
+.article-select-tools {
+  transition-duration: 0.25s;
+  transition-property: transform;
+  transform: translateY(0%);
+}
+
+.article-select-tools.hidden {
+  transform: translateY(100%);
+}
+
+.bdl--button[aria-expanded=true] {
+  border-bottom-color: inherit;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
