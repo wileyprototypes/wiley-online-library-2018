@@ -1,879 +1,879 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://wol.bss.design/article-view/abstract--no-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/abstract--no-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/article-view/access-denied--logged-in.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/access-denied--logged-in.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/article-view/access-denied--logged-out.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/access-denied--logged-out.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/article-view/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/article-view/full-text--figure-viewer.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/full-text--figure-viewer.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/article-view/full-text--video-abstract.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/article-view/full-text--video-abstract.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--00--enter-billing.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--00--enter-billing.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--01--verify-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--01--verify-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--02a--address-select-dropdown.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--02a--address-select-dropdown.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--02b--no-match.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--02b--no-match.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--03--apply-selected.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--03--apply-selected.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/adjustments/billing--04--modify-selected-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/adjustments/billing--04--modify-selected-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/billing--address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/billing--address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/billing--find-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/billing--find-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/billing--select-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/billing--select-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/login.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/login.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/payment.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/payment.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/inline-cart/payment--single-item.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/inline-cart/payment--single-item.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--complete-manually.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--complete-manually.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--complete-manually--extra.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--complete-manually--extra.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--enter-manually.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--enter-manually.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--select-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--select-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--verify-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--verify-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/billing--verify-address--no-address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/billing--verify-address--no-address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/login.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/login.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/payment.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/payment.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/checkout/payment--alt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/checkout/payment--alt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text--related-content--long-rail.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text--related-content--long-rail.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text--related-content--long-rail--no-ads.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text--related-content--long-rail--no-ads.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text--related-content--long-rail--sticky-widgets.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text--related-content--long-rail--sticky-widgets.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text--related-content--separate.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text--related-content--separate.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/content-views/news/full-text--related-content--tabs.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/content-views/news/full-text--related-content--tabs.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/components/buttons.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/components/buttons.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/components/collapse.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/components/collapse.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/components/forms.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/components/forms.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/components/modals.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/components/modals.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/content/colors.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/content/colors.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/content/iconography.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/content/iconography.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/content/images.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/content/images.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/content/social-media.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/content/social-media.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/documentation/content/typography.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/documentation/content/typography.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/etoc/archive/etoc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/etoc/archive/etoc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/etoc/etoc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/etoc/etoc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/etoc/etoc-alt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/etoc/etoc-alt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/etoc/etoc-button.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/etoc/etoc-button.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/etoc/etoc-enhanced.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/etoc/etoc-enhanced.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/2fa.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/2fa.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/2fa-less-specific.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/2fa-less-specific.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/citation-alert.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/citation-alert.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/order-summary.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/order-summary.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/emails/reset-password.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/emails/reset-password.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/ereader/ereader.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/ereader/ereader.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/ereader/ereader--alt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/ereader/ereader--alt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/error/502.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/error/502.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hub/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hub/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hub/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hub/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/asco/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/asco/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/asco/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/asco/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/asco/search-results.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/asco/search-results.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/bera/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/bera/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/bjs/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/bjs/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/bjs/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/bjs/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/bva/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/bva/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/bva/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/bva/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/dom/hub-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/dom/hub-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/hubs/dom/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/hubs/dom/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/institutional-admin/article-select.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/institutional-admin/article-select.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/institutional-admin/automated-title-lists.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/institutional-admin/automated-title-lists.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/mrw/toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/mrw/toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/abstract-view/full-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/abstract-view/full-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/abstract-view/no-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/abstract-view/no-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/chapter/logged-out.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/chapter/logged-out.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/currency/us-prefix.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/currency/us-prefix.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/currency/usd-affix.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/currency/usd-affix.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--full-house.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--full-house.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--institution-connected.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--institution-connected.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--institution-connected--alm.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--institution-connected--alm.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--institution-connected--society.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--institution-connected--society.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--society-tps.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--society-tps.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-in--token-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-in--token-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out--full-house.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out--full-house.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out--institution-connected.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out--institution-connected.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out--society.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out--society.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out--society-and-institution-authorised.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out--society-and-institution-authorised.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/options-panel/logged-out--token-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/options-panel/logged-out--token-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/archive/compare-table--more-compare-points.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/archive/compare-table--more-compare-points.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/archive/compare-table--no-preview-section.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/archive/compare-table--no-preview-section.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/access-options-below.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/access-options-below.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/access-options-below--clean.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/access-options-below--clean.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/compare-table.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/compare-table.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/compare-table--separate-preview.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/compare-table--separate-preview.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/ppv-below.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/ppv-below.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/ppv/reduced-options.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/ppv/reduced-options.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/access-denied/overview.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/access-denied/overview.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/advertising/content-view.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/advertising/content-view.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-01.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-01.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-02.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-02.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-03.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-03.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-04.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-04.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-05.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-05.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-06.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-06.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/altmetric-trending/journal-home/trending-widget-07.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/altmetric-trending/journal-home/trending-widget-07.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-disclosures/footer-section.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-disclosures/footer-section.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-disclosures/header-link.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-disclosures/header-link.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-disclosures/header-show-more.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-disclosures/header-show-more.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-index/all-articles--filtered.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-index/all-articles--filtered.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-index/all-articles--multiselect.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-index/all-articles--multiselect.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-index/journal-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-index/journal-home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-metrics/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-metrics/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-multiselect/issue-toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-multiselect/issue-toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-multiselect/user-journey-modals.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-multiselect/user-journey-modals.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-view-ad-experiment/abstract.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-view-ad-experiment/abstract.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-view-ad-experiment/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-view-ad-experiment/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-view-ad-experiment/full-text--enhanced.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-view-ad-experiment/full-text--enhanced.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/article-view-author-lists/test.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/article-view-author-lists/test.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/awaiting-activation/awaiting-activation--default.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/awaiting-activation/awaiting-activation--default.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/awaiting-activation/awaiting-activation--page.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/awaiting-activation/awaiting-activation--page.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/awaiting-activation/awaiting-activation--page--error.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/awaiting-activation/awaiting-activation--page--error.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/awaiting-activation/awaiting-activation--prompt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/awaiting-activation/awaiting-activation--prompt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/bi-directional-linking/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/bi-directional-linking/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/call-for-papers/call-to-action.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/call-for-papers/call-to-action.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/call-for-papers/list-of-collections.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/call-for-papers/list-of-collections.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/call-for-papers/search-results--collections--call-for-papers.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/call-for-papers/search-results--collections--call-for-papers.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/call-for-papers/toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/call-for-papers/toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/checkout/currency/usd-affix.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/checkout/currency/usd-affix.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/checkout/billing--address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/checkout/billing--address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/checkout/billing--address--compact.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/checkout/billing--address--compact.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/checkout/payment.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/checkout/payment.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/checkout/payment-error.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/checkout/payment-error.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/email-verification.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/email-verification.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/expired-verification.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/expired-verification.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--better-labels.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--better-labels.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--awaiting-verification.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--awaiting-verification.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--hidden-checks.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--hidden-checks.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--partial.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--partial.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--signed-up.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--signed-up.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--success.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--success.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--success--alt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--success--alt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--success--login-reg-prompt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--success--login-reg-prompt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--inline-form--unverified.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--inline-form--unverified.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/journal-home--logged-in--success.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/journal-home--logged-in--success.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/successfully-registered.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/successfully-registered.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/verified.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/verified.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/content-alerts/verified-and-register.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/content-alerts/verified-and-register.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/corresponding-author--dropdown/article-view.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/corresponding-author--dropdown/article-view.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-gallery/cover-gallery.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-gallery/cover-gallery.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/badge.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/badge.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/cover-widget.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/cover-widget.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/issue-toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/issue-toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/issue-toc--large-cover.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/issue-toc--large-cover.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/note-field.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/note-field.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/right-rail.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/right-rail.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/cover-product/top-content.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/cover-product/top-content.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/direct-pdf-link/article-view--full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/direct-pdf-link/article-view--full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/global-header-expand/2-columns.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/global-header-expand/2-columns.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/global-header-expand/3-columns.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/global-header-expand/3-columns.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/global-header-expand/better-global-header.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/global-header-expand/better-global-header.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/global-header-expand/search-context.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/global-header-expand/search-context.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/global-header-expand/search-context--2-column.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/global-header-expand/search-context--2-column.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/hero-collapse/3-columns.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/hero-collapse/3-columns.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/autocomplete.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/autocomplete.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/autocomplete-sections.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/autocomplete-sections.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/autocomplete-sections--autocomplete.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/autocomplete-sections--autocomplete.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/menu-open.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/menu-open.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/sections.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/sections.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/enhanced-search/right-menu/tabs.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/enhanced-search/right-menu/tabs.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ereader-access-options/free-to-read--accordion.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ereader-access-options/free-to-read--accordion.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ereader-access-options/free-to-read--modal.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ereader-access-options/free-to-read--modal.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ereader-access-options/free-to-read--modal--token-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ereader-access-options/free-to-read--modal--token-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ereader-access-options/shared-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ereader-access-options/shared-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/faseb/all-abstracts.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/faseb/all-abstracts.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/faseb/all-abstracts--filter-applied.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/faseb/all-abstracts--filter-applied.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/faseb/issue-toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/faseb/issue-toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/ereader/branding-header.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/ereader/branding-header.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/ereader/ereader.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/ereader/ereader.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/ereader/view-on-wol.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/ereader/view-on-wol.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/ereader/view-on-wol--logo.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/ereader/view-on-wol--logo.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/abstract.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/abstract.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/free-to-read/issue-toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/free-to-read/issue-toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/funder-statement/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/funder-statement/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/funder-statement/funding-section.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/funder-statement/funding-section.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/funder-statement/funding-section--alt.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/funder-statement/funding-section--alt.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/GetFTR/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/GetFTR/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/global-search/journal-home--experimental-search.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/global-search/journal-home--experimental-search.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/healthcare-professional-disclaimer/alert.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/healthcare-professional-disclaimer/alert.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/healthcare-professional-disclaimer/individual-ad-disclaimers.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/healthcare-professional-disclaimer/individual-ad-disclaimers.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/hi-resolution-figures/figure-viewer.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/hi-resolution-figures/figure-viewer.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/hi-resolution-figures/figure-viewer--shortcuts-hidden.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/hi-resolution-figures/figure-viewer--shortcuts-hidden.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/hi-resolution-figures/figure-viewer--zoomed-in.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/hi-resolution-figures/figure-viewer--zoomed-in.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/institution-login/institutional-login.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/institution-login/institutional-login.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/institution-login/institutional-login--continue.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/institution-login/institutional-login--continue.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/institution-login/institutional-login--credentials-dropdown.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/institution-login/institutional-login--credentials-dropdown.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/institution-login/institutional-login--search.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/institution-login/institutional-login--search.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/journal-branding/journal-home--dark.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/journal-branding/journal-home--dark.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/journal-branding/journal-home--light.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/journal-branding/journal-home--light.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/lit-535-early-view-accepted-tocs/accepted--by-category.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/lit-535-early-view-accepted-tocs/accepted--by-category.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/lit-535-early-view-accepted-tocs/accepted--by-first-published.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/lit-535-early-view-accepted-tocs/accepted--by-first-published.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/lit-636-author-pronouns/initial-draft.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/lit-636-author-pronouns/initial-draft.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/log-in-with-orcid/simple.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/log-in-with-orcid/simple.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/large-banner.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/large-banner.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/leaderboard-ad.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/leaderboard-ad.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/member-signup-ad-option.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/member-signup-ad-option.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/small-banner-button.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/small-banner-button.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/small-banner-button--minimal.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/small-banner-button--minimal.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/member-signup/society-membership.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/member-signup/society-membership.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/mobile-enhancements/article-view/abstract--no-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/mobile-enhancements/article-view/abstract--no-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/mobile-enhancements/article-view/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/mobile-enhancements/article-view/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/mrw/toc-collapse.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/mrw/toc-collapse.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/mrw/toc-slider.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/mrw/toc-slider.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/multimedia-embeds/full-text.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/multimedia-embeds/full-text.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/multimedia-embeds/full-text--figure-viewer--audio.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/multimedia-embeds/full-text--figure-viewer--audio.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/multimedia-embeds/full-text--figure-viewer--image.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/multimedia-embeds/full-text--figure-viewer--image.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/multimedia-embeds/full-text--figure-viewer--video.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/multimedia-embeds/full-text--figure-viewer--video.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/news-feature-image/in-body.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/news-feature-image/in-body.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/news-feature-image/in-header.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/news-feature-image/in-header.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/book-toc.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/book-toc.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/book-toc--full-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/book-toc--full-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/chapter-summary--access-denied.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/chapter-summary--access-denied.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/chapter-summary--access-denied--ppv-download.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/chapter-summary--access-denied--ppv-download.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/ereader--full-book.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/ereader--full-book.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/archive/ereader--single-chapter.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/archive/ereader--single-chapter.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/book-toc--view-and-download.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/book-toc--view-and-download.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/designs/ereader.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/designs/ereader.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/obook-experience/overview.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/obook-experience/overview.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/open-research/abstract.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/open-research/abstract.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-already-purchased/article-view.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-already-purchased/article-view.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-already-purchased/article-view--already-have-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-already-purchased/article-view--already-have-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-and-token-messaging/log-in-to-spend-tokens.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-and-token-messaging/log-in-to-spend-tokens.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-and-token-messaging/no-ppv.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-and-token-messaging/no-ppv.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-and-token-messaging/no-token-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-and-token-messaging/no-token-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/button-label.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/button-label.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/clear-options.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/clear-options.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/limitations-apply.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/limitations-apply.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/no-collapse.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/no-collapse.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/restrictions-apply.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/restrictions-apply.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/access-denied/tooltips.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/access-denied/tooltips.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/ppv-restrictions-signposting/payment.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/ppv-restrictions-signposting/payment.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/registration/new-user.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/registration/new-user.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/right-rail-accordions/article-view--no-accordions.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/right-rail-accordions/article-view--no-accordions.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/right-rail-accordions/article-view--related-highlights.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/right-rail-accordions/article-view--related-highlights.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/scite/scite-in-right-rail.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/scite/scite-in-right-rail.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/scite/scite-in-right-rail--contrasting.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/scite/scite-in-right-rail--contrasting.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/scite/scite-logo--bottom-right.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/scite/scite-logo--bottom-right.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/authenticated-institution.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/authenticated-institution.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/authenticated-institution--known-institution-with-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/authenticated-institution--known-institution-with-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/authenticated-institution--token-access.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/authenticated-institution--token-access.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/authenticated-institution--token-access--ip-institution.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/authenticated-institution--token-access--ip-institution.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/institutional-login.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/institutional-login.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/institutional-login--default-icon.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/institutional-login--default-icon.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/known-institution.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/known-institution.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/known-institution--average-name.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/known-institution--average-name.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/known-institution--long-name.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/known-institution--long-name.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/known-institution--with-no-license.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/known-institution--with-no-license.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/seamless-access/no-institution.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/seamless-access/no-institution.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/skip-links/overview.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/skip-links/overview.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--blue-pipe.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--blue-pipe.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--bullet.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--bullet.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--fontweights.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--fontweights.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--full-rules.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--full-rules.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--grey-pipe.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--grey-pipe.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings/issue-toc--teal-pipe.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings/issue-toc--teal-pipe.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings-on-article/basic.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings-on-article/basic.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings-on-article/links.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings-on-article/links.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/toc-headings-on-article/more-than.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/toc-headings-on-article/more-than.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/token-access-messaging/log-in-to-use-token.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/token-access-messaging/log-in-to-use-token.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/token-access-messaging/use-token.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/token-access-messaging/use-token.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/video-abstract/video-abstract--minimal.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/video-abstract/video-abstract--minimal.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/video-abstract/video-abstract--transcript.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/video-abstract/video-abstract--transcript.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/virtual-issues/vi-tag.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/virtual-issues/vi-tag.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/virtual-issues-in-search/search-results--articles.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/virtual-issues-in-search/search-results--articles.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/prototypes/virtual-issues-in-search/search-results--issues.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/prototypes/virtual-issues-in-search/search-results--issues.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/publication/all-news.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/publication/all-news.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/publication/home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/publication/home.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/articles.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/articles.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/articles--deep-taxonomy--paneled.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/articles--deep-taxonomy--paneled.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/publications.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/publications.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/publications--cover-related-to-title.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/publications--cover-related-to-title.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/publications--journal-relations.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/publications--journal-relations.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/search-results/publications--old-ui.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/search-results/publications--old-ui.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/supporting/pagebuilder-best-practices.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/supporting/pagebuilder-best-practices.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/supporting/pagebuilder-widget-guidelines.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/supporting/pagebuilder-widget-guidelines.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/wol/account/address.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/wol/account/address.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/wol/account/personal-information.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/wol/account/personal-information.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/accessing-content.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/accessing-content.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/citation-help.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/citation-help.html</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/</loc>
     </url>
     <url>
-        <loc>https://wol.bss.design/wol-home.html</loc>
+        <loc>https://wileyprototypes.github.io/wiley-online-library-2018/wol-home.html</loc>
     </url>
 </urlset>
